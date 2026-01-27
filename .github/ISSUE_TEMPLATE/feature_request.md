@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
+title: ''https://coffee-spark-ai-barista-7ae91.web.app/
 labels: ''
 assignees: ''
 
