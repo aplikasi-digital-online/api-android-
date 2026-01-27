@@ -1,7 +1,7 @@
 ---
-name: Feature request
+name: media-digital-online
 about: Suggest an idea for this project
-title: ''https://coffee-spark-ai-barista-7ae91.web.app/
+title: ''https://coffee-spark-ai-barista-7ae91.web.app/Facebook 
 labels: ''
 assignees: ''
 
