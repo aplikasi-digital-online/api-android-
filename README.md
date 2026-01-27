@@ -1,6 +1,6 @@
 # [Funding] Investor update for periodic meetings
 
-:::info
+:::info1https://anaway42.atlassian.net/wiki/spaces/FINANCE/pages/101744996#%3CObjective-2%3E
 :bulb: This template is used for monthly investor updates to your investors and key stakeholders.
 :::
 
